@@ -1,0 +1,22 @@
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\bin\Debug\PROJE2Dictionary.exe.config
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\bin\Debug\PROJE2Dictionary.exe
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\bin\Debug\PROJE2Dictionary.pdb
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.csprojAssemblyReference.cache
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.Form1.resources
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.Properties.Resources.resources
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.csproj.GenerateResource.cache
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.exe
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.pdb
+C:\Users\jabdukarimov\source\repos\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.Kelime_Ekle.resources
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\bin\Debug\PROJE2Dictionary.exe.config
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\bin\Debug\PROJE2Dictionary.exe
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\bin\Debug\PROJE2Dictionary.pdb
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.csprojAssemblyReference.cache
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.Form1.resources
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.Kelime_Ekle.resources
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.Properties.Resources.resources
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.csproj.GenerateResource.cache
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.csproj.CoreCompileInputs.cache
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.exe
+D:\Jamshid\Projects c#\projeler\PROJE2Dictionary\PROJE2Dictionary\PROJE2Dictionary\obj\Debug\PROJE2Dictionary.pdb
