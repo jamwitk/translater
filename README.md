@@ -1,6 +1,6 @@
 # TRRU Translater
 
-Project i developed while I internship at one company in YTU TeknoPark.
+Project I developed while I internship at one company in YTU TeknoPark.
 # Features
 
   - You can translate from russian to turkish or turkish to russian.
